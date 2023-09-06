@@ -55,7 +55,7 @@ Then you will need get a session string, copy it, then press heroku deploy butto
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kresswell/Telegram_VC_Bot/tree/master)
 
 
-Send [commands](https://github.com/thehamkercat/Telegram_VC_Bot/blob/master/README.md#commands) to bot to 
+Send [commands](https://github.com/Kresswell/Telegram_VC_Bot/blob/master/README.md#commands) to bot to 
 play music.
 
 
